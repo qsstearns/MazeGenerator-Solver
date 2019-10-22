@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\asus\Documents\YSU Programming\3700 Projects\Project 4\stack.h(36): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+  C:\Users\asus\Documents\YSU Programming\3700 Projects\Project 4\stack.h(32): note: while compiling class template member function 'void Stack<int>::push(const StackType &)'
+          with
+          [
+              StackType=int
+          ]
+  C:\Users\asus\Documents\YSU Programming\3700 Projects\Project 4\main.cpp(28): note: see reference to function template instantiation 'void Stack<int>::push(const StackType &)' being compiled
+          with
+          [
+              StackType=int
+          ]
+  C:\Users\asus\Documents\YSU Programming\3700 Projects\Project 4\main.cpp(25): note: see reference to class template instantiation 'Stack<int>' being compiled
+  Project 4.vcxproj -> C:\Users\asus\Documents\YSU Programming\3700 Projects\Project 4\Debug\Project 4.exe
